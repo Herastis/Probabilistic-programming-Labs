@@ -1,0 +1,13 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\tom_t\OneDrive\Documents\GitHub\PMP---labs\src\main\scala\Test.scala:14:12: object cra is not a member of package com[0m
+[0m[[0m[31merror[0m] [0m[0mimport com.cra.figaro.language._[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\tom_t\OneDrive\Documents\GitHub\PMP---labs\src\main\scala\Test.scala:15:12: object cra is not a member of package com[0m
+[0m[[0m[31merror[0m] [0m[0mimport com.cra.figaro.algorithm.sampling._[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\tom_t\OneDrive\Documents\GitHub\PMP---labs\src\main\scala\Test.scala:19:14: not found: value Constant[0m
+[0m[[0m[31merror[0m] [0m[0m		val test = Constant("Test")[0m
+[0m[[0m[31merror[0m] [0m[0m		           ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\tom_t\OneDrive\Documents\GitHub\PMP---labs\src\main\scala\Test.scala:21:19: not found: value Importance[0m
+[0m[[0m[31merror[0m] [0m[0m		val algorithm = Importance(1000, test)[0m
+[0m[[0m[31merror[0m] [0m[0m		                ^[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m
