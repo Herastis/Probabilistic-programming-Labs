@@ -5,3 +5,13 @@ exit
 runMain Test
 runMain Lab5.Ex1
 exit
+runMain Lab3.HelloWorld
+runMain Lab3.HelloWorldTest
+runMain Lab3.BurglaryExample
+runMain Lab3.Burglary
+runMain Lab3.HelloWorldTest
+runMain Lab3.BurglaryExample
+runMain Lab3.Burglary
+runMain Lab3.Covid
+clear
+runMain Lab3.Covid
