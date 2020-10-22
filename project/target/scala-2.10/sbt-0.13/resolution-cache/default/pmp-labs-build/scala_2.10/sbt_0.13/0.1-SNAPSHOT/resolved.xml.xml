@@ -4,7 +4,7 @@
 		module="pmp-labs-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20201008084516"
+		publication="20201022122433"
 		e:sbtVersion="0.13" e:scalaVersion="2.10"
 	>
 		<description>

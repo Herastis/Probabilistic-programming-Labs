@@ -1,4 +1,4 @@
-[0m[[0minfo[0m] [0mUpdating {file:/C:/Users/tom_t/OneDrive/Documents/GitHub/PMP---labs/}FigaroWork...[0m
+[0m[[0minfo[0m] [0mUpdating {file:/C:/Github/PMP---labs/}FigaroWork...[0m
 [0m[[0mdebug[0m] [0m:: resolving dependencies :: figarowork#figarowork_2.12;0.1-SNAPSHOT[0m
 [0m[[0mdebug[0m] [0m	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool][0m
 [0m[[0mdebug[0m] [0m	validate = true[0m
@@ -21,7 +21,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.2/scala-library-2.12.2.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.2/scala-library-2.12.2.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.2/scala-library-2.12.2.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.scala-lang#scala-library;2.12.2!scala-library.pom(pom.original) (190ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.scala-lang#scala-library;2.12.2!scala-library.pom(pom.original) (292ms)[0m
 [0m[[0mdebug[0m] [0m		tried C:\Users\tom_t\.ivy2\local\org.scala-lang\scala-library\2.12.2\jars\scala-library.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.2/scala-library-2.12.2.jar[0m
 [0m[[0mdebug[0m] [0m	found org.scala-lang#scala-library;2.12.2 in public[0m
@@ -48,7 +48,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/cra/figaro/figaro_2.12/5.0.0.0/figaro_2.12-5.0.0.0.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/cra/figaro/figaro_2.12/5.0.0.0/figaro_2.12-5.0.0.0.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/cra/figaro/figaro_2.12/5.0.0.0/figaro_2.12-5.0.0.0.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.cra.figaro#figaro_2.12;5.0.0.0!figaro_2.12.pom(pom.original) (176ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.cra.figaro#figaro_2.12;5.0.0.0!figaro_2.12.pom(pom.original) (48379ms)[0m
 [0m[[0mdebug[0m] [0m		tried C:\Users\tom_t\.ivy2\local\com.cra.figaro\figaro_2.12\5.0.0.0\jars\figaro_2.12.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/cra/figaro/figaro_2.12/5.0.0.0/figaro_2.12-5.0.0.0.jar[0m
 [0m[[0mdebug[0m] [0m		[5.0.0.0] com.cra.figaro#figaro_2.12[0m
@@ -100,7 +100,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.2/scala-reflect-2.12.2.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.2/scala-reflect-2.12.2.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.2/scala-reflect-2.12.2.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.scala-lang#scala-reflect;2.12.2!scala-reflect.pom(pom.original) (180ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.scala-lang#scala-reflect;2.12.2!scala-reflect.pom(pom.original) (921ms)[0m
 [0m[[0mdebug[0m] [0m		tried C:\Users\tom_t\.ivy2\local\org.scala-lang\scala-reflect\2.12.2\jars\scala-reflect.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.2/scala-reflect-2.12.2.jar[0m
 [0m[[0mdebug[0m] [0m	found org.scala-lang#scala-reflect;2.12.2 in public[0m
@@ -146,7 +146,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/asm/asm/3.3.1/asm-3.3.1.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/asm/asm/3.3.1/asm-3.3.1.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/asm/asm/3.3.1/asm-3.3.1.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] asm#asm;3.3.1!asm.pom(pom.original) (193ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] asm#asm;3.3.1!asm.pom(pom.original) (360ms)[0m
 [0m[[0minfo[0m] [0mResolving asm#asm-parent;3.3.1 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: asm#asm-parent;3.3.1 {}[0m
 [0m[[0minfo[0m] [0mResolving asm#asm-parent;3.3.1 ...[0m
@@ -160,7 +160,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/asm/asm-parent/3.3.1/asm-parent-3.3.1.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/asm/asm-parent/3.3.1/asm-parent-3.3.1.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/asm/asm-parent/3.3.1/asm-parent-3.3.1.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] asm#asm-parent;3.3.1!asm-parent.pom(pom.original) (188ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] asm#asm-parent;3.3.1!asm-parent.pom(pom.original) (650ms)[0m
 [0m[[0mdebug[0m] [0m		tried C:\Users\tom_t\.ivy2\local\asm\asm-parent\3.3.1\jars\asm-parent.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/asm/asm-parent/3.3.1/asm-parent-3.3.1.jar[0m
 [0m[[0mdebug[0m] [0mCLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/asm/asm-parent/3.3.1/asm-parent-3.3.1.jar[0m
@@ -198,7 +198,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/commons/commons-math3/3.3/commons-math3-3.3.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/commons/commons-math3/3.3/commons-math3-3.3.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/apache/commons/commons-math3/3.3/commons-math3-3.3.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.commons#commons-math3;3.3!commons-math3.pom(pom.original) (242ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.commons#commons-math3;3.3!commons-math3.pom(pom.original) (709ms)[0m
 [0m[[0minfo[0m] [0mResolving org.apache.commons#commons-parent;34 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache.commons#commons-parent;34 {}[0m
 [0m[[0minfo[0m] [0mResolving org.apache.commons#commons-parent;34 ...[0m
@@ -212,7 +212,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/commons/commons-parent/34/commons-parent-34.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/commons/commons-parent/34/commons-parent-34.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/apache/commons/commons-parent/34/commons-parent-34.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.commons#commons-parent;34!commons-parent.pom(pom.original) (268ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.commons#commons-parent;34!commons-parent.pom(pom.original) (2182ms)[0m
 [0m[[0minfo[0m] [0mResolving org.apache#apache;13 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache#apache;13 {}[0m
 [0m[[0minfo[0m] [0mResolving org.apache#apache;13 ...[0m
@@ -226,7 +226,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/apache/13/apache-13.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/apache/13/apache-13.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/apache/apache/13/apache-13.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache#apache;13!apache.pom(pom.original) (205ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache#apache;13!apache.pom(pom.original) (637ms)[0m
 [0m[[0mdebug[0m] [0m		tried C:\Users\tom_t\.ivy2\local\org.apache\apache\13\jars\apache.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/apache/apache/13/apache-13.jar[0m
 [0m[[0mdebug[0m] [0mCLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/org/apache/apache/13/apache-13.jar[0m
@@ -269,7 +269,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/net/sf/jsci/jsci/1.2/jsci-1.2.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/net/sf/jsci/jsci/1.2/jsci-1.2.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/net/sf/jsci/jsci/1.2/jsci-1.2.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] net.sf.jsci#jsci;1.2!jsci.pom(pom.original) (191ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] net.sf.jsci#jsci;1.2!jsci.pom(pom.original) (489ms)[0m
 [0m[[0mdebug[0m] [0m		tried C:\Users\tom_t\.ivy2\local\net.sf.jsci\jsci\1.2\jars\jsci.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/net/sf/jsci/jsci/1.2/jsci-1.2.jar[0m
 [0m[[0mdebug[0m] [0m	found net.sf.jsci#jsci;1.2 in public[0m
@@ -300,7 +300,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/net/sf/jsci/lpsolve/2003-11-03/lpsolve-2003-11-03.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/net/sf/jsci/lpsolve/2003-11-03/lpsolve-2003-11-03.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/net/sf/jsci/lpsolve/2003-11-03/lpsolve-2003-11-03.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] net.sf.jsci#lpsolve;2003-11-03!lpsolve.pom(pom.original) (229ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] net.sf.jsci#lpsolve;2003-11-03!lpsolve.pom(pom.original) (436ms)[0m
 [0m[[0mdebug[0m] [0m		tried C:\Users\tom_t\.ivy2\local\net.sf.jsci\lpsolve\2003-11-03\jars\lpsolve.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/net/sf/jsci/lpsolve/2003-11-03/lpsolve-2003-11-03.jar[0m
 [0m[[0mdebug[0m] [0m	found net.sf.jsci#lpsolve;2003-11-03 in public[0m
@@ -331,7 +331,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/axsl/org/w3c/dom/mathml/mathml-dom-java/2.0/mathml-dom-java-2.0.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/axsl/org/w3c/dom/mathml/mathml-dom-java/2.0/mathml-dom-java-2.0.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/axsl/org/w3c/dom/mathml/mathml-dom-java/2.0/mathml-dom-java-2.0.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.axsl.org.w3c.dom.mathml#mathml-dom-java;2.0!mathml-dom-java.pom(pom.original) (251ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.axsl.org.w3c.dom.mathml#mathml-dom-java;2.0!mathml-dom-java.pom(pom.original) (468ms)[0m
 [0m[[0mdebug[0m] [0m		tried C:\Users\tom_t\.ivy2\local\org.axsl.org.w3c.dom.mathml\mathml-dom-java\2.0\jars\mathml-dom-java.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/axsl/org/w3c/dom/mathml/mathml-dom-java/2.0/mathml-dom-java-2.0.jar[0m
 [0m[[0mdebug[0m] [0m	found org.axsl.org.w3c.dom.mathml#mathml-dom-java;2.0 in public[0m
@@ -362,7 +362,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/xerces/xercesImpl/2.8.1/xercesImpl-2.8.1.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/xerces/xercesImpl/2.8.1/xercesImpl-2.8.1.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/xerces/xercesImpl/2.8.1/xercesImpl-2.8.1.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] xerces#xercesImpl;2.8.1!xercesImpl.pom(pom.original) (170ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] xerces#xercesImpl;2.8.1!xercesImpl.pom(pom.original) (276ms)[0m
 [0m[[0minfo[0m] [0mResolving org.apache#apache;3 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache#apache;3 {}[0m
 [0m[[0minfo[0m] [0mResolving org.apache#apache;3 ...[0m
@@ -376,7 +376,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/apache/3/apache-3.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/apache/3/apache-3.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/apache/apache/3/apache-3.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache#apache;3!apache.pom(pom.original) (174ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache#apache;3!apache.pom(pom.original) (289ms)[0m
 [0m[[0mdebug[0m] [0m		tried C:\Users\tom_t\.ivy2\local\org.apache\apache\3\jars\apache.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/apache/apache/3/apache-3.jar[0m
 [0m[[0mdebug[0m] [0mCLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/org/apache/apache/3/apache-3.jar[0m
@@ -412,7 +412,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/xml-apis/xml-apis/1.3.03/xml-apis-1.3.03.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/xml-apis/xml-apis/1.3.03/xml-apis-1.3.03.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/xml-apis/xml-apis/1.3.03/xml-apis-1.3.03.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] xml-apis#xml-apis;1.3.03!xml-apis.pom(pom.original) (368ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] xml-apis#xml-apis;1.3.03!xml-apis.pom(pom.original) (863ms)[0m
 [0m[[0minfo[0m] [0mResolving org.apache#apache;1 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache#apache;1 {}[0m
 [0m[[0minfo[0m] [0mResolving org.apache#apache;1 ...[0m
@@ -426,7 +426,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/apache/1/apache-1.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/apache/1/apache-1.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/apache/apache/1/apache-1.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache#apache;1!apache.pom(pom.original) (171ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache#apache;1!apache.pom(pom.original) (5491ms)[0m
 [0m[[0mdebug[0m] [0m		tried C:\Users\tom_t\.ivy2\local\org.apache\apache\1\jars\apache.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/apache/apache/1/apache-1.jar[0m
 [0m[[0mdebug[0m] [0mCLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/org/apache/apache/1/apache-1.jar[0m
@@ -472,7 +472,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.12/2.4.18/akka-actor_2.12-2.4.18.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.12/2.4.18/akka-actor_2.12-2.4.18.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.12/2.4.18/akka-actor_2.12-2.4.18.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.akka#akka-actor_2.12;2.4.18!akka-actor_2.12.pom(pom.original) (171ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.akka#akka-actor_2.12;2.4.18!akka-actor_2.12.pom(pom.original) (1664ms)[0m
 [0m[[0mdebug[0m] [0m		tried C:\Users\tom_t\.ivy2\local\com.typesafe.akka\akka-actor_2.12\2.4.18\jars\akka-actor_2.12.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.12/2.4.18/akka-actor_2.12-2.4.18.jar[0m
 [0m[[0mdebug[0m] [0m	found com.typesafe.akka#akka-actor_2.12;2.4.18 in public[0m
@@ -518,7 +518,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/config/1.3.0/config-1.3.0.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/config/1.3.0/config-1.3.0.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/config/1.3.0/config-1.3.0.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe#config;1.3.0!config.pom(pom.original) (173ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe#config;1.3.0!config.pom(pom.original) (489ms)[0m
 [0m[[0mdebug[0m] [0m		tried C:\Users\tom_t\.ivy2\local\com.typesafe\config\1.3.0\bundles\config.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/config/1.3.0/config-1.3.0.jar[0m
 [0m[[0mdebug[0m] [0m	found com.typesafe#config;1.3.0 in public[0m
@@ -554,7 +554,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.12/0.8.0/scala-java8-compat_2.12-0.8.0.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.12/0.8.0/scala-java8-compat_2.12-0.8.0.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.12/0.8.0/scala-java8-compat_2.12-0.8.0.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.scala-lang.modules#scala-java8-compat_2.12;0.8.0!scala-java8-compat_2.12.pom(pom.original) (175ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.scala-lang.modules#scala-java8-compat_2.12;0.8.0!scala-java8-compat_2.12.pom(pom.original) (2750ms)[0m
 [0m[[0mdebug[0m] [0m		tried C:\Users\tom_t\.ivy2\local\org.scala-lang.modules\scala-java8-compat_2.12\0.8.0\bundles\scala-java8-compat_2.12.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.12/0.8.0/scala-java8-compat_2.12-0.8.0.jar[0m
 [0m[[0mdebug[0m] [0m	found org.scala-lang.modules#scala-java8-compat_2.12;0.8.0 in public[0m
@@ -605,7 +605,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scalanlp/breeze_2.12/0.13.1/breeze_2.12-0.13.1.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scalanlp/breeze_2.12/0.13.1/breeze_2.12-0.13.1.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scalanlp/breeze_2.12/0.13.1/breeze_2.12-0.13.1.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.scalanlp#breeze_2.12;0.13.1!breeze_2.12.pom(pom.original) (175ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.scalanlp#breeze_2.12;0.13.1!breeze_2.12.pom(pom.original) (2458ms)[0m
 [0m[[0mdebug[0m] [0m		tried C:\Users\tom_t\.ivy2\local\org.scalanlp\breeze_2.12\0.13.1\jars\breeze_2.12.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scalanlp/breeze_2.12/0.13.1/breeze_2.12-0.13.1.jar[0m
 [0m[[0mdebug[0m] [0m	found org.scalanlp#breeze_2.12;0.13.1 in public[0m
@@ -650,7 +650,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scalanlp/breeze-macros_2.12/0.13.1/breeze-macros_2.12-0.13.1.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scalanlp/breeze-macros_2.12/0.13.1/breeze-macros_2.12-0.13.1.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scalanlp/breeze-macros_2.12/0.13.1/breeze-macros_2.12-0.13.1.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.scalanlp#breeze-macros_2.12;0.13.1!breeze-macros_2.12.pom(pom.original) (173ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.scalanlp#breeze-macros_2.12;0.13.1!breeze-macros_2.12.pom(pom.original) (588ms)[0m
 [0m[[0mdebug[0m] [0m		tried C:\Users\tom_t\.ivy2\local\org.scalanlp\breeze-macros_2.12\0.13.1\jars\breeze-macros_2.12.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scalanlp/breeze-macros_2.12/0.13.1/breeze-macros_2.12-0.13.1.jar[0m
 [0m[[0mdebug[0m] [0m	found org.scalanlp#breeze-macros_2.12;0.13.1 in public[0m
@@ -715,7 +715,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/github/fommil/netlib/core/1.1.2/core-1.1.2.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/github/fommil/netlib/core/1.1.2/core-1.1.2.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/github/fommil/netlib/core/1.1.2/core-1.1.2.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.github.fommil.netlib#core;1.1.2!core.pom(pom.original) (176ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.github.fommil.netlib#core;1.1.2!core.pom(pom.original) (2051ms)[0m
 [0m[[0minfo[0m] [0mResolving com.github.fommil.netlib#parent;1.1 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: com.github.fommil.netlib#parent;1.1 {}[0m
 [0m[[0minfo[0m] [0mResolving com.github.fommil.netlib#parent;1.1 ...[0m
@@ -729,10 +729,26 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/github/fommil/netlib/parent/1.1/parent-1.1.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/github/fommil/netlib/parent/1.1/parent-1.1.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/github/fommil/netlib/parent/1.1/parent-1.1.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.github.fommil.netlib#parent;1.1!parent.pom(pom.original) (171ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.github.fommil.netlib#parent;1.1!parent.pom(pom.original) (422ms)[0m
 [0m[[0minfo[0m] [0mResolving org.sonatype.oss#oss-parent;7 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.sonatype.oss#oss-parent;7 {}[0m
-[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.sonatype.oss#oss-parent;7[0m
+[0m[[0minfo[0m] [0mResolving org.sonatype.oss#oss-parent;7 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain-delegate: Checking cache for: dependency: org.sonatype.oss#oss-parent;7 {}[0m
+[0m[[0mdebug[0m] [0m		tried C:\Users\tom_t\.ivy2\local\org.sonatype.oss\oss-parent\7\ivys\ivy.xml[0m
+[0m[[0mdebug[0m] [0m	local: no ivy file found for org.sonatype.oss#oss-parent;7[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/7/oss-parent-7.pom[0m
+[0m[[0mdebug[0m] [0m	public: found md file for org.sonatype.oss#oss-parent;7[0m
+[0m[[0mdebug[0m] [0m		=> https://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/7/oss-parent-7.pom (7)[0m
+[0m[[0mdebug[0m] [0mdownloading https://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/7/oss-parent-7.pom ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/7/oss-parent-7.pom[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/7/oss-parent-7.pom.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/7/oss-parent-7.pom[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.sonatype.oss#oss-parent;7!oss-parent.pom(pom.original) (1527ms)[0m
+[0m[[0mdebug[0m] [0m		tried C:\Users\tom_t\.ivy2\local\org.sonatype.oss\oss-parent\7\jars\oss-parent.jar[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/7/oss-parent-7.jar[0m
+[0m[[0mdebug[0m] [0mCLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/7/oss-parent-7.jar[0m
+[0m[[0mdebug[0m] [0m		tried C:\Users\tom_t\.sbt\preloaded\org.sonatype.oss\oss-parent\7\jars\oss-parent.jar[0m
+[0m[[0mdebug[0m] [0m		tried file:/C:/Users/tom_t/.sbt/preloaded/org/sonatype/oss/oss-parent/7/oss-parent-7.jar[0m
 [0m[[0mdebug[0m] [0m		tried C:\Users\tom_t\.ivy2\local\com.github.fommil.netlib\parent\1.1\jars\parent.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/github/fommil/netlib/parent/1.1/parent-1.1.jar[0m
 [0m[[0mdebug[0m] [0mCLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/com/github/fommil/netlib/parent/1.1/parent-1.1.jar[0m
@@ -773,7 +789,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/net/sourceforge/f2j/arpack_combined_all/0.1/arpack_combined_all-0.1.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/net/sourceforge/f2j/arpack_combined_all/0.1/arpack_combined_all-0.1.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/net/sourceforge/f2j/arpack_combined_all/0.1/arpack_combined_all-0.1.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] net.sourceforge.f2j#arpack_combined_all;0.1!arpack_combined_all.pom(pom.original) (168ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] net.sourceforge.f2j#arpack_combined_all;0.1!arpack_combined_all.pom(pom.original) (407ms)[0m
 [0m[[0mdebug[0m] [0m		tried C:\Users\tom_t\.ivy2\local\net.sourceforge.f2j\arpack_combined_all\0.1\jars\arpack_combined_all.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/net/sourceforge/f2j/arpack_combined_all/0.1/arpack_combined_all-0.1.jar[0m
 [0m[[0mdebug[0m] [0m	found net.sourceforge.f2j#arpack_combined_all;0.1 in public[0m
@@ -809,7 +825,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/net/sf/opencsv/opencsv/2.3/opencsv-2.3.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/net/sf/opencsv/opencsv/2.3/opencsv-2.3.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/net/sf/opencsv/opencsv/2.3/opencsv-2.3.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] net.sf.opencsv#opencsv;2.3!opencsv.pom(pom.original) (182ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] net.sf.opencsv#opencsv;2.3!opencsv.pom(pom.original) (381ms)[0m
 [0m[[0minfo[0m] [0mResolving org.sonatype.oss#oss-parent;7 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.sonatype.oss#oss-parent;7 {}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.sonatype.oss#oss-parent;7[0m
@@ -848,7 +864,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/github/rwl/jtransforms/2.4.0/jtransforms-2.4.0.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/github/rwl/jtransforms/2.4.0/jtransforms-2.4.0.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/github/rwl/jtransforms/2.4.0/jtransforms-2.4.0.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.github.rwl#jtransforms;2.4.0!jtransforms.pom(pom.original) (171ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.github.rwl#jtransforms;2.4.0!jtransforms.pom(pom.original) (271ms)[0m
 [0m[[0mdebug[0m] [0m		tried C:\Users\tom_t\.ivy2\local\com.github.rwl\jtransforms\2.4.0\jars\jtransforms.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/github/rwl/jtransforms/2.4.0/jtransforms-2.4.0.jar[0m
 [0m[[0mdebug[0m] [0m	found com.github.rwl#jtransforms;2.4.0 in public[0m
@@ -884,7 +900,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/junit/junit/4.8.2/junit-4.8.2.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/junit/junit/4.8.2/junit-4.8.2.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/junit/junit/4.8.2/junit-4.8.2.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] junit#junit;4.8.2!junit.pom(pom.original) (175ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] junit#junit;4.8.2!junit.pom(pom.original) (267ms)[0m
 [0m[[0mdebug[0m] [0m		tried C:\Users\tom_t\.ivy2\local\junit\junit\4.8.2\jars\junit.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/junit/junit/4.8.2/junit-4.8.2.jar[0m
 [0m[[0mdebug[0m] [0m	found junit#junit;4.8.2 in public[0m
@@ -929,7 +945,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/spire-math/spire_2.12/0.13.0/spire_2.12-0.13.0.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/spire-math/spire_2.12/0.13.0/spire_2.12-0.13.0.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/spire-math/spire_2.12/0.13.0/spire_2.12-0.13.0.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.spire-math#spire_2.12;0.13.0!spire_2.12.pom(pom.original) (252ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.spire-math#spire_2.12;0.13.0!spire_2.12.pom(pom.original) (257ms)[0m
 [0m[[0mdebug[0m] [0m		tried C:\Users\tom_t\.ivy2\local\org.spire-math\spire_2.12\0.13.0\jars\spire_2.12.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/spire-math/spire_2.12/0.13.0/spire_2.12-0.13.0.jar[0m
 [0m[[0mdebug[0m] [0m	found org.spire-math#spire_2.12;0.13.0 in public[0m
@@ -987,7 +1003,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/spire-math/spire-macros_2.12/0.13.0/spire-macros_2.12-0.13.0.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/spire-math/spire-macros_2.12/0.13.0/spire-macros_2.12-0.13.0.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/spire-math/spire-macros_2.12/0.13.0/spire-macros_2.12-0.13.0.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.spire-math#spire-macros_2.12;0.13.0!spire-macros_2.12.pom(pom.original) (171ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.spire-math#spire-macros_2.12;0.13.0!spire-macros_2.12.pom(pom.original) (275ms)[0m
 [0m[[0mdebug[0m] [0m		tried C:\Users\tom_t\.ivy2\local\org.spire-math\spire-macros_2.12\0.13.0\jars\spire-macros_2.12.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/spire-math/spire-macros_2.12/0.13.0/spire-macros_2.12-0.13.0.jar[0m
 [0m[[0mdebug[0m] [0m	found org.spire-math#spire-macros_2.12;0.13.0 in public[0m
@@ -1053,7 +1069,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/typelevel/machinist_2.12/0.6.1/machinist_2.12-0.6.1.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/typelevel/machinist_2.12/0.6.1/machinist_2.12-0.6.1.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/typelevel/machinist_2.12/0.6.1/machinist_2.12-0.6.1.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.typelevel#machinist_2.12;0.6.1!machinist_2.12.pom(pom.original) (170ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.typelevel#machinist_2.12;0.6.1!machinist_2.12.pom(pom.original) (435ms)[0m
 [0m[[0mdebug[0m] [0m		tried C:\Users\tom_t\.ivy2\local\org.typelevel\machinist_2.12\0.6.1\jars\machinist_2.12.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/typelevel/machinist_2.12/0.6.1/machinist_2.12-0.6.1.jar[0m
 [0m[[0mdebug[0m] [0m	found org.typelevel#machinist_2.12;0.6.1 in public[0m
@@ -1131,7 +1147,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/chuusai/shapeless_2.12/2.3.2/shapeless_2.12-2.3.2.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/chuusai/shapeless_2.12/2.3.2/shapeless_2.12-2.3.2.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/chuusai/shapeless_2.12/2.3.2/shapeless_2.12-2.3.2.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.chuusai#shapeless_2.12;2.3.2!shapeless_2.12.pom(pom.original) (171ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.chuusai#shapeless_2.12;2.3.2!shapeless_2.12.pom(pom.original) (316ms)[0m
 [0m[[0mdebug[0m] [0m		tried C:\Users\tom_t\.ivy2\local\com.chuusai\shapeless_2.12\2.3.2\bundles\shapeless_2.12.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/chuusai/shapeless_2.12/2.3.2/shapeless_2.12-2.3.2.jar[0m
 [0m[[0mdebug[0m] [0m	found com.chuusai#shapeless_2.12;2.3.2 in public[0m
@@ -1199,7 +1215,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/typelevel/macro-compat_2.12/1.1.1/macro-compat_2.12-1.1.1.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/typelevel/macro-compat_2.12/1.1.1/macro-compat_2.12-1.1.1.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/typelevel/macro-compat_2.12/1.1.1/macro-compat_2.12-1.1.1.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.typelevel#macro-compat_2.12;1.1.1!macro-compat_2.12.pom(pom.original) (177ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.typelevel#macro-compat_2.12;1.1.1!macro-compat_2.12.pom(pom.original) (278ms)[0m
 [0m[[0mdebug[0m] [0m		tried C:\Users\tom_t\.ivy2\local\org.typelevel\macro-compat_2.12\1.1.1\jars\macro-compat_2.12.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/typelevel/macro-compat_2.12/1.1.1/macro-compat_2.12-1.1.1.jar[0m
 [0m[[0mdebug[0m] [0m	found org.typelevel#macro-compat_2.12;1.1.1 in public[0m
@@ -1255,7 +1271,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.slf4j#slf4j-api;1.7.5!slf4j-api.pom(pom.original) (171ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.slf4j#slf4j-api;1.7.5!slf4j-api.pom(pom.original) (312ms)[0m
 [0m[[0minfo[0m] [0mResolving org.slf4j#slf4j-parent;1.7.5 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.slf4j#slf4j-parent;1.7.5 {}[0m
 [0m[[0minfo[0m] [0mResolving org.slf4j#slf4j-parent;1.7.5 ...[0m
@@ -1269,7 +1285,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-parent/1.7.5/slf4j-parent-1.7.5.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-parent/1.7.5/slf4j-parent-1.7.5.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/slf4j/slf4j-parent/1.7.5/slf4j-parent-1.7.5.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.slf4j#slf4j-parent;1.7.5!slf4j-parent.pom(pom.original) (460ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.slf4j#slf4j-parent;1.7.5!slf4j-parent.pom(pom.original) (344ms)[0m
 [0m[[0mdebug[0m] [0m		tried C:\Users\tom_t\.ivy2\local\org.slf4j\slf4j-parent\1.7.5\jars\slf4j-parent.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/slf4j/slf4j-parent/1.7.5/slf4j-parent-1.7.5.jar[0m
 [0m[[0mdebug[0m] [0mCLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/org/slf4j/slf4j-parent/1.7.5/slf4j-parent-1.7.5.jar[0m
@@ -1369,7 +1385,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/io/argonaut/argonaut_2.12/6.2/argonaut_2.12-6.2.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/io/argonaut/argonaut_2.12/6.2/argonaut_2.12-6.2.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/io/argonaut/argonaut_2.12/6.2/argonaut_2.12-6.2.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] io.argonaut#argonaut_2.12;6.2!argonaut_2.12.pom(pom.original) (171ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] io.argonaut#argonaut_2.12;6.2!argonaut_2.12.pom(pom.original) (374ms)[0m
 [0m[[0mdebug[0m] [0m		tried C:\Users\tom_t\.ivy2\local\io.argonaut\argonaut_2.12\6.2\jars\argonaut_2.12.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/io/argonaut/argonaut_2.12/6.2/argonaut_2.12-6.2.jar[0m
 [0m[[0mdebug[0m] [0m	found io.argonaut#argonaut_2.12;6.2 in public[0m
@@ -1415,7 +1431,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/prefuse/prefuse/beta-20071021/prefuse-beta-20071021.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/prefuse/prefuse/beta-20071021/prefuse-beta-20071021.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/prefuse/prefuse/beta-20071021/prefuse-beta-20071021.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.prefuse#prefuse;beta-20071021!prefuse.pom(pom.original) (211ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.prefuse#prefuse;beta-20071021!prefuse.pom(pom.original) (465ms)[0m
 [0m[[0mdebug[0m] [0m		tried C:\Users\tom_t\.ivy2\local\org.prefuse\prefuse\beta-20071021\jars\prefuse.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/prefuse/prefuse/beta-20071021/prefuse-beta-20071021.jar[0m
 [0m[[0mdebug[0m] [0m	found org.prefuse#prefuse;beta-20071021 in public[0m
@@ -1448,7 +1464,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.12/2.0.0/scala-swing_2.12-2.0.0.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.12/2.0.0/scala-swing_2.12-2.0.0.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.12/2.0.0/scala-swing_2.12-2.0.0.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.scala-lang.modules#scala-swing_2.12;2.0.0!scala-swing_2.12.pom(pom.original) (177ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.scala-lang.modules#scala-swing_2.12;2.0.0!scala-swing_2.12.pom(pom.original) (403ms)[0m
 [0m[[0mdebug[0m] [0m		tried C:\Users\tom_t\.ivy2\local\org.scala-lang.modules\scala-swing_2.12\2.0.0\bundles\scala-swing_2.12.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.12/2.0.0/scala-swing_2.12-2.0.0.jar[0m
 [0m[[0mdebug[0m] [0m	found org.scala-lang.modules#scala-swing_2.12;2.0.0 in public[0m
@@ -6490,7 +6506,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.2/scala-compiler-2.12.2.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.2/scala-compiler-2.12.2.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.2/scala-compiler-2.12.2.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.scala-lang#scala-compiler;2.12.2!scala-compiler.pom(pom.original) (3219ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.scala-lang#scala-compiler;2.12.2!scala-compiler.pom(pom.original) (566ms)[0m
 [0m[[0mdebug[0m] [0m		tried C:\Users\tom_t\.ivy2\local\org.scala-lang\scala-compiler\2.12.2\jars\scala-compiler.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.2/scala-compiler-2.12.2.jar[0m
 [0m[[0mdebug[0m] [0m	found org.scala-lang#scala-compiler;2.12.2 in public[0m
@@ -6555,29 +6571,42 @@
 [0m[[0mdebug[0m] [0mdependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.2 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.2 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.2 {scala-tool=[default, optional(default)], compile=[default(compile)]}[0m
 [0m[[0minfo[0m] [0mResolving org.scala-lang.modules#scala-xml_2.12;1.0.6 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.scala-lang.modules#scala-xml_2.12;1.0.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}[0m
-[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang.modules#scala-xml_2.12;1.0.6[0m
-[0m[[0mdebug[0m] [0m	found org.scala-lang.modules#scala-xml_2.12;1.0.6 in sbt-chain[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.0 {test=[runtime(*), master(*)]} => dependency: org.scala-lang#scala-compiler;2.12.2 {test=[runtime(*), master(*)]}[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.0 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.2 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
+[0m[[0minfo[0m] [0mResolving org.scala-lang.modules#scala-xml_2.12;1.0.6 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain-delegate: Checking cache for: dependency: org.scala-lang.modules#scala-xml_2.12;1.0.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}[0m
+[0m[[0mdebug[0m] [0m		tried C:\Users\tom_t\.ivy2\local\org.scala-lang.modules\scala-xml_2.12\1.0.6\ivys\ivy.xml[0m
+[0m[[0mdebug[0m] [0m	local: no ivy file found for org.scala-lang.modules#scala-xml_2.12;1.0.6[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.pom[0m
+[0m[[0mdebug[0m] [0m	public: found md file for org.scala-lang.modules#scala-xml_2.12;1.0.6[0m
+[0m[[0mdebug[0m] [0m		=> https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.pom (1.0.6)[0m
+[0m[[0mdebug[0m] [0mdownloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.pom ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.pom[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.pom.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.pom[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.scala-lang.modules#scala-xml_2.12;1.0.6!scala-xml_2.12.pom(pom.original) (675ms)[0m
+[0m[[0mdebug[0m] [0m		tried C:\Users\tom_t\.ivy2\local\org.scala-lang.modules\scala-xml_2.12\1.0.6\bundles\scala-xml_2.12.jar[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar[0m
+[0m[[0mdebug[0m] [0m	found org.scala-lang.modules#scala-xml_2.12;1.0.6 in public[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.0 {test=[runtime(*), master(compile)]} => dependency: org.scala-lang#scala-compiler;2.12.2 {test=[runtime(*), master(compile)]}[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.0 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.2 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.12.2->org.scala-lang.modules#scala-xml_2.12;1.0.6 [compile->compile(*)][0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.0 {test=[runtime(*), master(*)]} => dependency: org.scala-lang#scala-compiler;2.12.2 {test=[runtime(*), master(*)]}[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.0 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.2 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
-[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang.modules#scala-xml_2.12;1.0.6->org.scala-lang#scala-library;2.12.2 [compile->master(*)][0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.0 {test=[runtime(*), master(*)]} => dependency: org.scala-lang#scala-compiler;2.12.2 {test=[runtime(*), master(*)]}[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.0 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.2 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.0 {test=[runtime(*), master(*)]} => dependency: org.scala-lang#scala-compiler;2.12.2 {test=[runtime(*), master(*)]}[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.0 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.2 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.0 {test=[runtime(*), master(*)]} => dependency: org.scala-lang#scala-compiler;2.12.2 {test=[runtime(*), master(*)]}[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.0 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.2 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.0 {test=[runtime(*), master(*)]} => dependency: org.scala-lang#scala-compiler;2.12.2 {test=[runtime(*), master(*)]}[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.0 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.2 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.0 {test=[runtime(*), master(*)]} => dependency: org.scala-lang#scala-compiler;2.12.2 {test=[runtime(*), master(*)]}[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.0 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.2 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.0 {test=[runtime(*), master(compile)]} => dependency: org.scala-lang#scala-compiler;2.12.2 {test=[runtime(*), master(compile)]}[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.0 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.2 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang.modules#scala-xml_2.12;1.0.6->org.scala-lang#scala-library;2.12.2 [compile->master(compile)][0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.0 {test=[runtime(*), master(compile)]} => dependency: org.scala-lang#scala-compiler;2.12.2 {test=[runtime(*), master(compile)]}[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.0 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.2 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.0 {test=[runtime(*), master(compile)]} => dependency: org.scala-lang#scala-compiler;2.12.2 {test=[runtime(*), master(compile)]}[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.0 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.2 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.0 {test=[runtime(*), master(compile)]} => dependency: org.scala-lang#scala-compiler;2.12.2 {test=[runtime(*), master(compile)]}[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.0 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.2 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.0 {test=[runtime(*), master(compile)]} => dependency: org.scala-lang#scala-compiler;2.12.2 {test=[runtime(*), master(compile)]}[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.0 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.2 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.0 {test=[runtime(*), master(compile)]} => dependency: org.scala-lang#scala-compiler;2.12.2 {test=[runtime(*), master(compile)]}[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.0 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.2 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang.modules#scala-xml_2.12;1.0.6->org.scala-lang#scala-library;2.12.2 [compile->compile(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.12.2->org.scala-lang.modules#scala-xml_2.12;1.0.6 [compile->runtime(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.12.2->org.scala-lang.modules#scala-xml_2.12;1.0.6 [compile->compile][0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.0 {test=[runtime(*), master(*)]} => dependency: org.scala-lang#scala-compiler;2.12.2 {test=[runtime(*), master(*)]}[0m
-[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.0 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.2 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.0 {test=[runtime(*), master(compile)]} => dependency: org.scala-lang#scala-compiler;2.12.2 {test=[runtime(*), master(compile)]}[0m
+[0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.0 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.2 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang.modules#scala-xml_2.12;1.0.6->org.scala-lang#scala-library;2.12.2 [runtime->runtime(*)][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang.modules#scala-xml_2.12;1.0.6->org.scala-lang#scala-library;2.12.2 [runtime->compile][0m
 [0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.2 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.2 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}[0m
@@ -6627,7 +6656,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/jline/jline/2.14.3/jline-2.14.3.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/jline/jline/2.14.3/jline-2.14.3.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/jline/jline/2.14.3/jline-2.14.3.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] jline#jline;2.14.3!jline.pom(pom.original) (295ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] jline#jline;2.14.3!jline.pom(pom.original) (392ms)[0m
 [0m[[0minfo[0m] [0mResolving org.sonatype.oss#oss-parent;9 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.sonatype.oss#oss-parent;9 {}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.sonatype.oss#oss-parent;9[0m
@@ -6648,201 +6677,206 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.2/scala-library-2.12.2.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.2/scala-library-2.12.2.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.2/scala-library-2.12.2.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang#scala-library;2.12.2!scala-library.jar (1491ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang#scala-library;2.12.2!scala-library.jar (63416ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/cra/figaro/figaro_2.12/5.0.0.0/figaro_2.12-5.0.0.0.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/com/cra/figaro/figaro_2.12/5.0.0.0/figaro_2.12-5.0.0.0.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/cra/figaro/figaro_2.12/5.0.0.0/figaro_2.12-5.0.0.0.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/cra/figaro/figaro_2.12/5.0.0.0/figaro_2.12-5.0.0.0.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/cra/figaro/figaro_2.12/5.0.0.0/figaro_2.12-5.0.0.0.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.cra.figaro#figaro_2.12;5.0.0.0!figaro_2.12.jar (732ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.cra.figaro#figaro_2.12;5.0.0.0!figaro_2.12.jar (17285ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.2/scala-reflect-2.12.2.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.2/scala-reflect-2.12.2.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.2/scala-reflect-2.12.2.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.2/scala-reflect-2.12.2.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.2/scala-reflect-2.12.2.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang#scala-reflect;2.12.2!scala-reflect.jar (1030ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang#scala-reflect;2.12.2!scala-reflect.jar (33012ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/asm/asm/3.3.1/asm-3.3.1.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/asm/asm/3.3.1/asm-3.3.1.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/asm/asm/3.3.1/asm-3.3.1.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/asm/asm/3.3.1/asm-3.3.1.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/asm/asm/3.3.1/asm-3.3.1.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] asm#asm;3.3.1!asm.jar (322ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] asm#asm;3.3.1!asm.jar (2109ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/apache/commons/commons-math3/3.3/commons-math3-3.3.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/apache/commons/commons-math3/3.3/commons-math3-3.3.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/commons/commons-math3/3.3/commons-math3-3.3.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/commons/commons-math3/3.3/commons-math3-3.3.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/apache/commons/commons-math3/3.3/commons-math3-3.3.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.apache.commons#commons-math3;3.3!commons-math3.jar (725ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.apache.commons#commons-math3;3.3!commons-math3.jar (2855ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/net/sf/jsci/jsci/1.2/jsci-1.2.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/net/sf/jsci/jsci/1.2/jsci-1.2.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/net/sf/jsci/jsci/1.2/jsci-1.2.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/net/sf/jsci/jsci/1.2/jsci-1.2.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/net/sf/jsci/jsci/1.2/jsci-1.2.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] net.sf.jsci#jsci;1.2!jsci.jar (672ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] net.sf.jsci#jsci;1.2!jsci.jar (3238ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.12/2.4.18/akka-actor_2.12-2.4.18.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.12/2.4.18/akka-actor_2.12-2.4.18.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.12/2.4.18/akka-actor_2.12-2.4.18.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.12/2.4.18/akka-actor_2.12-2.4.18.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.12/2.4.18/akka-actor_2.12-2.4.18.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.akka#akka-actor_2.12;2.4.18!akka-actor_2.12.jar (755ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.akka#akka-actor_2.12;2.4.18!akka-actor_2.12.jar (5249ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scalanlp/breeze_2.12/0.13.1/breeze_2.12-0.13.1.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/scalanlp/breeze_2.12/0.13.1/breeze_2.12-0.13.1.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scalanlp/breeze_2.12/0.13.1/breeze_2.12-0.13.1.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scalanlp/breeze_2.12/0.13.1/breeze_2.12-0.13.1.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scalanlp/breeze_2.12/0.13.1/breeze_2.12-0.13.1.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scalanlp#breeze_2.12;0.13.1!breeze_2.12.jar (3267ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scalanlp#breeze_2.12;0.13.1!breeze_2.12.jar (9455ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/io/argonaut/argonaut_2.12/6.2/argonaut_2.12-6.2.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/io/argonaut/argonaut_2.12/6.2/argonaut_2.12-6.2.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/io/argonaut/argonaut_2.12/6.2/argonaut_2.12-6.2.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/io/argonaut/argonaut_2.12/6.2/argonaut_2.12-6.2.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/io/argonaut/argonaut_2.12/6.2/argonaut_2.12-6.2.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] io.argonaut#argonaut_2.12;6.2!argonaut_2.12.jar (366ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] io.argonaut#argonaut_2.12;6.2!argonaut_2.12.jar (3978ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/prefuse/prefuse/beta-20071021/prefuse-beta-20071021.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/prefuse/prefuse/beta-20071021/prefuse-beta-20071021.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/prefuse/prefuse/beta-20071021/prefuse-beta-20071021.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/prefuse/prefuse/beta-20071021/prefuse-beta-20071021.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/prefuse/prefuse/beta-20071021/prefuse-beta-20071021.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.prefuse#prefuse;beta-20071021!prefuse.jar (315ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.prefuse#prefuse;beta-20071021!prefuse.jar (6557ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.12/2.0.0/scala-swing_2.12-2.0.0.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.12/2.0.0/scala-swing_2.12-2.0.0.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.12/2.0.0/scala-swing_2.12-2.0.0.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.12/2.0.0/scala-swing_2.12-2.0.0.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-swing_2.12/2.0.0/scala-swing_2.12-2.0.0.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang.modules#scala-swing_2.12;2.0.0!scala-swing_2.12.jar(bundle) (315ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang.modules#scala-swing_2.12;2.0.0!scala-swing_2.12.jar(bundle) (1152ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/net/sf/jsci/lpsolve/2003-11-03/lpsolve-2003-11-03.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/net/sf/jsci/lpsolve/2003-11-03/lpsolve-2003-11-03.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/net/sf/jsci/lpsolve/2003-11-03/lpsolve-2003-11-03.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/net/sf/jsci/lpsolve/2003-11-03/lpsolve-2003-11-03.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/net/sf/jsci/lpsolve/2003-11-03/lpsolve-2003-11-03.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] net.sf.jsci#lpsolve;2003-11-03!lpsolve.jar (188ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] net.sf.jsci#lpsolve;2003-11-03!lpsolve.jar (2145ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/axsl/org/w3c/dom/mathml/mathml-dom-java/2.0/mathml-dom-java-2.0.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/axsl/org/w3c/dom/mathml/mathml-dom-java/2.0/mathml-dom-java-2.0.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/axsl/org/w3c/dom/mathml/mathml-dom-java/2.0/mathml-dom-java-2.0.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/axsl/org/w3c/dom/mathml/mathml-dom-java/2.0/mathml-dom-java-2.0.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/axsl/org/w3c/dom/mathml/mathml-dom-java/2.0/mathml-dom-java-2.0.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.axsl.org.w3c.dom.mathml#mathml-dom-java;2.0!mathml-dom-java.jar (222ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.axsl.org.w3c.dom.mathml#mathml-dom-java;2.0!mathml-dom-java.jar (5255ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/xerces/xercesImpl/2.8.1/xercesImpl-2.8.1.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/xerces/xercesImpl/2.8.1/xercesImpl-2.8.1.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/xerces/xercesImpl/2.8.1/xercesImpl-2.8.1.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/xerces/xercesImpl/2.8.1/xercesImpl-2.8.1.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/xerces/xercesImpl/2.8.1/xercesImpl-2.8.1.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] xerces#xercesImpl;2.8.1!xercesImpl.jar (472ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] xerces#xercesImpl;2.8.1!xercesImpl.jar (3182ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/xml-apis/xml-apis/1.3.03/xml-apis-1.3.03.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/xml-apis/xml-apis/1.3.03/xml-apis-1.3.03.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/xml-apis/xml-apis/1.3.03/xml-apis-1.3.03.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/xml-apis/xml-apis/1.3.03/xml-apis-1.3.03.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/xml-apis/xml-apis/1.3.03/xml-apis-1.3.03.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] xml-apis#xml-apis;1.3.03!xml-apis.jar (211ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] xml-apis#xml-apis;1.3.03!xml-apis.jar (2087ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/typesafe/config/1.3.0/config-1.3.0.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/com/typesafe/config/1.3.0/config-1.3.0.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/config/1.3.0/config-1.3.0.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/typesafe/config/1.3.0/config-1.3.0.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/typesafe/config/1.3.0/config-1.3.0.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe#config;1.3.0!config.jar(bundle) (271ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe#config;1.3.0!config.jar(bundle) (2443ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.12/0.8.0/scala-java8-compat_2.12-0.8.0.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.12/0.8.0/scala-java8-compat_2.12-0.8.0.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.12/0.8.0/scala-java8-compat_2.12-0.8.0.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.12/0.8.0/scala-java8-compat_2.12-0.8.0.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.12/0.8.0/scala-java8-compat_2.12-0.8.0.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang.modules#scala-java8-compat_2.12;0.8.0!scala-java8-compat_2.12.jar(bundle) (655ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang.modules#scala-java8-compat_2.12;0.8.0!scala-java8-compat_2.12.jar(bundle) (3397ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scalanlp/breeze-macros_2.12/0.13.1/breeze-macros_2.12-0.13.1.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/scalanlp/breeze-macros_2.12/0.13.1/breeze-macros_2.12-0.13.1.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scalanlp/breeze-macros_2.12/0.13.1/breeze-macros_2.12-0.13.1.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scalanlp/breeze-macros_2.12/0.13.1/breeze-macros_2.12-0.13.1.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scalanlp/breeze-macros_2.12/0.13.1/breeze-macros_2.12-0.13.1.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scalanlp#breeze-macros_2.12;0.13.1!breeze-macros_2.12.jar (226ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scalanlp#breeze-macros_2.12;0.13.1!breeze-macros_2.12.jar (4220ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/github/fommil/netlib/core/1.1.2/core-1.1.2.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/com/github/fommil/netlib/core/1.1.2/core-1.1.2.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/github/fommil/netlib/core/1.1.2/core-1.1.2.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/github/fommil/netlib/core/1.1.2/core-1.1.2.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/github/fommil/netlib/core/1.1.2/core-1.1.2.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.github.fommil.netlib#core;1.1.2!core.jar (369ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.github.fommil.netlib#core;1.1.2!core.jar (3993ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/net/sourceforge/f2j/arpack_combined_all/0.1/arpack_combined_all-0.1.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/net/sourceforge/f2j/arpack_combined_all/0.1/arpack_combined_all-0.1.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/net/sourceforge/f2j/arpack_combined_all/0.1/arpack_combined_all-0.1.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/net/sourceforge/f2j/arpack_combined_all/0.1/arpack_combined_all-0.1.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/net/sourceforge/f2j/arpack_combined_all/0.1/arpack_combined_all-0.1.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] net.sourceforge.f2j#arpack_combined_all;0.1!arpack_combined_all.jar (409ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] net.sourceforge.f2j#arpack_combined_all;0.1!arpack_combined_all.jar (2030ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/net/sf/opencsv/opencsv/2.3/opencsv-2.3.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/net/sf/opencsv/opencsv/2.3/opencsv-2.3.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/net/sf/opencsv/opencsv/2.3/opencsv-2.3.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/net/sf/opencsv/opencsv/2.3/opencsv-2.3.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/net/sf/opencsv/opencsv/2.3/opencsv-2.3.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] net.sf.opencsv#opencsv;2.3!opencsv.jar (669ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] net.sf.opencsv#opencsv;2.3!opencsv.jar (1239ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/github/rwl/jtransforms/2.4.0/jtransforms-2.4.0.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/com/github/rwl/jtransforms/2.4.0/jtransforms-2.4.0.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/github/rwl/jtransforms/2.4.0/jtransforms-2.4.0.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/github/rwl/jtransforms/2.4.0/jtransforms-2.4.0.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/github/rwl/jtransforms/2.4.0/jtransforms-2.4.0.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.github.rwl#jtransforms;2.4.0!jtransforms.jar (285ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.github.rwl#jtransforms;2.4.0!jtransforms.jar (2581ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/spire-math/spire_2.12/0.13.0/spire_2.12-0.13.0.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/spire-math/spire_2.12/0.13.0/spire_2.12-0.13.0.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/spire-math/spire_2.12/0.13.0/spire_2.12-0.13.0.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/spire-math/spire_2.12/0.13.0/spire_2.12-0.13.0.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/spire-math/spire_2.12/0.13.0/spire_2.12-0.13.0.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.spire-math#spire_2.12;0.13.0!spire_2.12.jar (2379ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.spire-math#spire_2.12;0.13.0!spire_2.12.jar (9200ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/com/chuusai/shapeless_2.12/2.3.2/shapeless_2.12-2.3.2.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/com/chuusai/shapeless_2.12/2.3.2/shapeless_2.12-2.3.2.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/chuusai/shapeless_2.12/2.3.2/shapeless_2.12-2.3.2.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/com/chuusai/shapeless_2.12/2.3.2/shapeless_2.12-2.3.2.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/com/chuusai/shapeless_2.12/2.3.2/shapeless_2.12-2.3.2.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.chuusai#shapeless_2.12;2.3.2!shapeless_2.12.jar(bundle) (700ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.chuusai#shapeless_2.12;2.3.2!shapeless_2.12.jar(bundle) (5274ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.slf4j#slf4j-api;1.7.5!slf4j-api.jar (603ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.slf4j#slf4j-api;1.7.5!slf4j-api.jar (4399ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/junit/junit/4.8.2/junit-4.8.2.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/junit/junit/4.8.2/junit-4.8.2.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/junit/junit/4.8.2/junit-4.8.2.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/junit/junit/4.8.2/junit-4.8.2.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/junit/junit/4.8.2/junit-4.8.2.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] junit#junit;4.8.2!junit.jar (303ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] junit#junit;4.8.2!junit.jar (2346ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/spire-math/spire-macros_2.12/0.13.0/spire-macros_2.12-0.13.0.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/spire-math/spire-macros_2.12/0.13.0/spire-macros_2.12-0.13.0.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/spire-math/spire-macros_2.12/0.13.0/spire-macros_2.12-0.13.0.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/spire-math/spire-macros_2.12/0.13.0/spire-macros_2.12-0.13.0.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/spire-math/spire-macros_2.12/0.13.0/spire-macros_2.12-0.13.0.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.spire-math#spire-macros_2.12;0.13.0!spire-macros_2.12.jar (217ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.spire-math#spire-macros_2.12;0.13.0!spire-macros_2.12.jar (3986ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/typelevel/machinist_2.12/0.6.1/machinist_2.12-0.6.1.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/typelevel/machinist_2.12/0.6.1/machinist_2.12-0.6.1.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/typelevel/machinist_2.12/0.6.1/machinist_2.12-0.6.1.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/typelevel/machinist_2.12/0.6.1/machinist_2.12-0.6.1.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/typelevel/machinist_2.12/0.6.1/machinist_2.12-0.6.1.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.typelevel#machinist_2.12;0.6.1!machinist_2.12.jar (175ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.typelevel#machinist_2.12;0.6.1!machinist_2.12.jar (1538ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/typelevel/macro-compat_2.12/1.1.1/macro-compat_2.12-1.1.1.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/typelevel/macro-compat_2.12/1.1.1/macro-compat_2.12-1.1.1.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/typelevel/macro-compat_2.12/1.1.1/macro-compat_2.12-1.1.1.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/typelevel/macro-compat_2.12/1.1.1/macro-compat_2.12-1.1.1.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/typelevel/macro-compat_2.12/1.1.1/macro-compat_2.12-1.1.1.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.typelevel#macro-compat_2.12;1.1.1!macro-compat_2.12.jar (163ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.typelevel#macro-compat_2.12;1.1.1!macro-compat_2.12.jar (2180ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.2/scala-compiler-2.12.2.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.2/scala-compiler-2.12.2.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.2/scala-compiler-2.12.2.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.2/scala-compiler-2.12.2.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.2/scala-compiler-2.12.2.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang#scala-compiler;2.12.2!scala-compiler.jar (1851ms)[0m
-[0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.12;1.0.6!scala-xml_2.12.jar(bundle)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang#scala-compiler;2.12.2!scala-compiler.jar (7841ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar[0m
+[0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang.modules#scala-xml_2.12;1.0.6!scala-xml_2.12.jar(bundle) (781ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/jline/jline/2.14.3/jline-2.14.3.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/jline/jline/2.14.3/jline-2.14.3.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/jline/jline/2.14.3/jline-2.14.3.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/jline/jline/2.14.3/jline-2.14.3.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/jline/jline/2.14.3/jline-2.14.3.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] jline#jline;2.14.3!jline.jar (284ms)[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 18688ms :: artifacts dl 20769ms[0m
-[0m[[0mdebug[0m] [0m	report for figarowork#figarowork_2.12;0.1-SNAPSHOT compile produced in C:\Users\tom_t\OneDrive\Documents\GitHub\PMP---labs\target\scala-2.12\resolution-cache\reports\figarowork-figarowork_2.12-compile.xml[0m
-[0m[[0mdebug[0m] [0m	report for figarowork#figarowork_2.12;0.1-SNAPSHOT runtime produced in C:\Users\tom_t\OneDrive\Documents\GitHub\PMP---labs\target\scala-2.12\resolution-cache\reports\figarowork-figarowork_2.12-runtime.xml[0m
-[0m[[0mdebug[0m] [0m	report for figarowork#figarowork_2.12;0.1-SNAPSHOT test produced in C:\Users\tom_t\OneDrive\Documents\GitHub\PMP---labs\target\scala-2.12\resolution-cache\reports\figarowork-figarowork_2.12-test.xml[0m
-[0m[[0mdebug[0m] [0m	report for figarowork#figarowork_2.12;0.1-SNAPSHOT provided produced in C:\Users\tom_t\OneDrive\Documents\GitHub\PMP---labs\target\scala-2.12\resolution-cache\reports\figarowork-figarowork_2.12-provided.xml[0m
-[0m[[0mdebug[0m] [0m	report for figarowork#figarowork_2.12;0.1-SNAPSHOT optional produced in C:\Users\tom_t\OneDrive\Documents\GitHub\PMP---labs\target\scala-2.12\resolution-cache\reports\figarowork-figarowork_2.12-optional.xml[0m
-[0m[[0mdebug[0m] [0m	report for figarowork#figarowork_2.12;0.1-SNAPSHOT compile-internal produced in C:\Users\tom_t\OneDrive\Documents\GitHub\PMP---labs\target\scala-2.12\resolution-cache\reports\figarowork-figarowork_2.12-compile-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for figarowork#figarowork_2.12;0.1-SNAPSHOT runtime-internal produced in C:\Users\tom_t\OneDrive\Documents\GitHub\PMP---labs\target\scala-2.12\resolution-cache\reports\figarowork-figarowork_2.12-runtime-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for figarowork#figarowork_2.12;0.1-SNAPSHOT test-internal produced in C:\Users\tom_t\OneDrive\Documents\GitHub\PMP---labs\target\scala-2.12\resolution-cache\reports\figarowork-figarowork_2.12-test-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for figarowork#figarowork_2.12;0.1-SNAPSHOT plugin produced in C:\Users\tom_t\OneDrive\Documents\GitHub\PMP---labs\target\scala-2.12\resolution-cache\reports\figarowork-figarowork_2.12-plugin.xml[0m
-[0m[[0mdebug[0m] [0m	report for figarowork#figarowork_2.12;0.1-SNAPSHOT sources produced in C:\Users\tom_t\OneDrive\Documents\GitHub\PMP---labs\target\scala-2.12\resolution-cache\reports\figarowork-figarowork_2.12-sources.xml[0m
-[0m[[0mdebug[0m] [0m	report for figarowork#figarowork_2.12;0.1-SNAPSHOT docs produced in C:\Users\tom_t\OneDrive\Documents\GitHub\PMP---labs\target\scala-2.12\resolution-cache\reports\figarowork-figarowork_2.12-docs.xml[0m
-[0m[[0mdebug[0m] [0m	report for figarowork#figarowork_2.12;0.1-SNAPSHOT pom produced in C:\Users\tom_t\OneDrive\Documents\GitHub\PMP---labs\target\scala-2.12\resolution-cache\reports\figarowork-figarowork_2.12-pom.xml[0m
-[0m[[0mdebug[0m] [0m	report for figarowork#figarowork_2.12;0.1-SNAPSHOT scala-tool produced in C:\Users\tom_t\OneDrive\Documents\GitHub\PMP---labs\target\scala-2.12\resolution-cache\reports\figarowork-figarowork_2.12-scala-tool.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (18688ms resolve - 20769ms download)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] jline#jline;2.14.3!jline.jar (965ms)[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 119310ms :: artifacts dl 219680ms[0m
+[0m[[0mdebug[0m] [0m	report for figarowork#figarowork_2.12;0.1-SNAPSHOT compile produced in C:\Github\PMP---labs\target\scala-2.12\resolution-cache\reports\figarowork-figarowork_2.12-compile.xml[0m
+[0m[[0mdebug[0m] [0m	report for figarowork#figarowork_2.12;0.1-SNAPSHOT runtime produced in C:\Github\PMP---labs\target\scala-2.12\resolution-cache\reports\figarowork-figarowork_2.12-runtime.xml[0m
+[0m[[0mdebug[0m] [0m	report for figarowork#figarowork_2.12;0.1-SNAPSHOT test produced in C:\Github\PMP---labs\target\scala-2.12\resolution-cache\reports\figarowork-figarowork_2.12-test.xml[0m
+[0m[[0mdebug[0m] [0m	report for figarowork#figarowork_2.12;0.1-SNAPSHOT provided produced in C:\Github\PMP---labs\target\scala-2.12\resolution-cache\reports\figarowork-figarowork_2.12-provided.xml[0m
+[0m[[0mdebug[0m] [0m	report for figarowork#figarowork_2.12;0.1-SNAPSHOT optional produced in C:\Github\PMP---labs\target\scala-2.12\resolution-cache\reports\figarowork-figarowork_2.12-optional.xml[0m
+[0m[[0mdebug[0m] [0m	report for figarowork#figarowork_2.12;0.1-SNAPSHOT compile-internal produced in C:\Github\PMP---labs\target\scala-2.12\resolution-cache\reports\figarowork-figarowork_2.12-compile-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for figarowork#figarowork_2.12;0.1-SNAPSHOT runtime-internal produced in C:\Github\PMP---labs\target\scala-2.12\resolution-cache\reports\figarowork-figarowork_2.12-runtime-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for figarowork#figarowork_2.12;0.1-SNAPSHOT test-internal produced in C:\Github\PMP---labs\target\scala-2.12\resolution-cache\reports\figarowork-figarowork_2.12-test-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for figarowork#figarowork_2.12;0.1-SNAPSHOT plugin produced in C:\Github\PMP---labs\target\scala-2.12\resolution-cache\reports\figarowork-figarowork_2.12-plugin.xml[0m
+[0m[[0mdebug[0m] [0m	report for figarowork#figarowork_2.12;0.1-SNAPSHOT sources produced in C:\Github\PMP---labs\target\scala-2.12\resolution-cache\reports\figarowork-figarowork_2.12-sources.xml[0m
+[0m[[0mdebug[0m] [0m	report for figarowork#figarowork_2.12;0.1-SNAPSHOT docs produced in C:\Github\PMP---labs\target\scala-2.12\resolution-cache\reports\figarowork-figarowork_2.12-docs.xml[0m
+[0m[[0mdebug[0m] [0m	report for figarowork#figarowork_2.12;0.1-SNAPSHOT pom produced in C:\Github\PMP---labs\target\scala-2.12\resolution-cache\reports\figarowork-figarowork_2.12-pom.xml[0m
+[0m[[0mdebug[0m] [0m	report for figarowork#figarowork_2.12;0.1-SNAPSHOT scala-tool produced in C:\Github\PMP---labs\target\scala-2.12\resolution-cache\reports\figarowork-figarowork_2.12-scala-tool.xml[0m
+[0m[[0mdebug[0m] [0m	resolve done (119310ms resolve - 219680ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m
