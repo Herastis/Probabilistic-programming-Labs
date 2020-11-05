@@ -20,7 +20,7 @@ object ex5 {
  val player1Card2 = Chain(player1Card, player2Card, (card: Int) =>
  discrete.Uniform(cards.filter(_ != card):_*))
 
- val player2Card2 = Chain(player1Card, player2Card, player1Card2 (card: Int) =>
+ val player2Card2 = Chain(player1Card, player2Card, player1Card2, (card: Int) =>
  discrete.Uniform(cards.filter(_ != card):_*))
 
  val player1Bet1 =
