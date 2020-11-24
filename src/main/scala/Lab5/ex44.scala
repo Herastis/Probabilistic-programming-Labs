@@ -17,11 +17,13 @@ object ex5 {
  // Player 2 can get any card except the first player’s card
  discrete.Uniform(cards.filter(_ != card):_*))
 
+/*
  val player1Card2 = Chain(player1Card, player2Card, (card: Int) =>
  discrete.Uniform(cards.filter(_ != card):_*))
 
  val player2Card2 = Chain(player1Card, player2Card, player1Card2, (card: Int) =>
  discrete.Uniform(cards.filter(_ != card):_*))
+*/
 
  val player1Bet1 =
  RichCPD(player1Card,

@@ -15,3 +15,10 @@ runMain Lab3.Burglary
 runMain Lab3.Covid
 clear
 runMain Lab3.Covid
+sbt "runMain Lab7.golf"
+"runMain Lab7.golf"
+runMain Lab7.golf
+clear
+runMain Lab7.golf
+runMain testPartial.alarma
+runMain Partial.alarma

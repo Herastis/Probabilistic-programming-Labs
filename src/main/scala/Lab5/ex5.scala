@@ -5,7 +5,7 @@ import com.cra.figaro.language.Chain
 import com.cra.figaro.library.compound.{RichCPD, OneOf, *}
 import com.cra.figaro.language.{Flip, Constant, Apply}
 import com.cra.figaro.algorithm.factored.VariableElimination
-object ex5 {
+object Exercitiul5 {
  def main(args: Array[String]) {
  // To keep the code simple, I just make the cards an integer
  val cards = List(5, 4, 3, 2, 1)

@@ -1,23 +1,23 @@
 [0m[[0mdebug[0m] [0m[naha] [0m
 [0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
-[0m[[0mdebug[0m] [0m[naha] 	removed:Set(C:\Github\PMP---labs\src\main\scala\Lab6\Ex1.scala, C:\Github\PMP---labs\src\main\scala\Lab7\Ex1.scala)[0m
-[0m[[0mdebug[0m] [0m[naha] 	added: Set(C:\Github\PMP---labs\src\main\scala\Lab7\golf.scala, C:\Github\PMP---labs\src\main\scala\Lab6\tennis.scala, C:\Github\PMP---labs\src\main\scala\Lab5\ex44.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set(C:\Github\PMP---labs\src\main\scala\Partial 1\testPartial.scala)[0m
 [0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
-[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set(C:\Github\PMP---labs\target\scala-2.12\classes\Lab5\ex5.class, C:\Github\PMP---labs\target\scala-2.12\classes\Lab5\ex5$.class)[0m
 [0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
-[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(C:\Github\PMP---labs\src\main\scala\Lab7\golf.scala, C:\Github\PMP---labs\src\main\scala\Lab6\Ex1.scala, C:\Github\PMP---labs\src\main\scala\Lab7\Ex1.scala, C:\Github\PMP---labs\src\main\scala\Lab6\tennis.scala, C:\Github\PMP---labs\src\main\scala\Lab5\ex44.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(C:\Github\PMP---labs\src\main\scala\Partial 1\testPartial.scala)[0m
 [0m[[0mdebug[0m] [0m[naha] [0m
 [0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
-[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set(C:\Github\PMP---labs\src\main\scala\Lab5\ex44.scala)[0m
 [0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
-[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(C:\Github\PMP---labs\src\main\scala\Lab7\golf.scala, C:\Github\PMP---labs\src\main\scala\Lab6\Ex1.scala, C:\Github\PMP---labs\src\main\scala\Lab7\Ex1.scala, C:\Github\PMP---labs\src\main\scala\Lab6\tennis.scala, C:\Github\PMP---labs\src\main\scala\Lab5\ex44.scala)[0m
-[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(C:\Github\PMP---labs\src\main\scala\Lab7\golf.scala, C:\Github\PMP---labs\src\main\scala\Lab6\Ex1.scala, C:\Github\PMP---labs\src\main\scala\Lab7\Ex1.scala, C:\Github\PMP---labs\src\main\scala\Lab6\tennis.scala, C:\Github\PMP---labs\src\main\scala\Lab5\ex44.scala)[0m
-[0m[[0minfo[0m] [0mCompiling 3 Scala sources to C:\Github\PMP---labs\target\scala-2.12\classes...[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(C:\Github\PMP---labs\src\main\scala\Partial 1\testPartial.scala, C:\Github\PMP---labs\src\main\scala\Lab5\ex44.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(C:\Github\PMP---labs\src\main\scala\Partial 1\testPartial.scala, C:\Github\PMP---labs\src\main\scala\Lab5\ex44.scala)[0m
+[0m[[0minfo[0m] [0mCompiling 2 Scala sources to C:\Github\PMP---labs\target\scala-2.12\classes...[0m
 [0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.16:component from component compiler for Scala 2.12.2[0m
 [0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.16:component from component compiler for Scala 2.12.2[0m
-[0m[[0mdebug[0m] [0mRunning cached compiler 5417a175, interfacing (CompilerInterface) with Scala compiler version 2.12.2[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 370e7705, interfacing (CompilerInterface) with Scala compiler version 2.12.2[0m
 [0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
 [0m[[0mdebug[0m] [0m	-feature[0m
 [0m[[0mdebug[0m] [0m	-language:existentials[0m
@@ -27,18 +27,17 @@
 [0m[[0mdebug[0m] [0m	C:\Program Files\Java\jre1.8.0_261\lib\resources.jar;C:\Program Files\Java\jre1.8.0_261\lib\rt.jar;C:\Program Files\Java\jre1.8.0_261\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_261\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_261\lib\jce.jar;C:\Program Files\Java\jre1.8.0_261\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_261\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_261\classes;C:\Github\PMP---labs\lib_managed\jars\org.scala-lang\scala-library\scala-library-2.12.2.jar[0m
 [0m[[0mdebug[0m] [0m	-classpath[0m
 [0m[[0mdebug[0m] [0m	C:\Github\PMP---labs\target\scala-2.12\classes;C:\Github\PMP---labs\lib_managed\jars\com.cra.figaro\figaro_2.12\figaro_2.12-5.0.0.0.jar;C:\Github\PMP---labs\lib_managed\jars\org.scala-lang\scala-reflect\scala-reflect-2.12.2.jar;C:\Github\PMP---labs\lib_managed\jars\asm\asm\asm-3.3.1.jar;C:\Github\PMP---labs\lib_managed\jars\org.apache.commons\commons-math3\commons-math3-3.3.jar;C:\Github\PMP---labs\lib_managed\jars\net.sf.jsci\jsci\jsci-1.2.jar;C:\Github\PMP---labs\lib_managed\jars\net.sf.jsci\lpsolve\lpsolve-2003-11-03.jar;C:\Github\PMP---labs\lib_managed\jars\org.axsl.org.w3c.dom.mathml\mathml-dom-java\mathml-dom-java-2.0.jar;C:\Github\PMP---labs\lib_managed\jars\xerces\xercesImpl\xercesImpl-2.8.1.jar;C:\Github\PMP---labs\lib_managed\jars\xml-apis\xml-apis\xml-apis-1.3.03.jar;C:\Github\PMP---labs\lib_managed\jars\com.typesafe.akka\akka-actor_2.12\akka-actor_2.12-2.4.18.jar;C:\Github\PMP---labs\lib_managed\bundles\com.typesafe\config\config-1.3.0.jar;C:\Github\PMP---labs\lib_managed\bundles\org.scala-lang.modules\scala-java8-compat_2.12\scala-java8-compat_2.12-0.8.0.jar;C:\Github\PMP---labs\lib_managed\jars\org.scalanlp\breeze_2.12\breeze_2.12-0.13.1.jar;C:\Github\PMP---labs\lib_managed\jars\org.scalanlp\breeze-macros_2.12\breeze-macros_2.12-0.13.1.jar;C:\Github\PMP---labs\lib_managed\jars\com.github.fommil.netlib\core\core-1.1.2.jar;C:\Github\PMP---labs\lib_managed\jars\net.sourceforge.f2j\arpack_combined_all\arpack_combined_all-0.1.jar;C:\Github\PMP---labs\lib_managed\jars\net.sf.opencsv\opencsv\opencsv-2.3.jar;C:\Github\PMP---labs\lib_managed\jars\com.github.rwl\jtransforms\jtransforms-2.4.0.jar;C:\Github\PMP---labs\lib_managed\jars\junit\junit\junit-4.8.2.jar;C:\Github\PMP---labs\lib_managed\jars\org.spire-math\spire_2.12\spire_2.12-0.13.0.jar;C:\Github\PMP---labs\lib_managed\jars\org.spire-math\spire-macros_2.12\spire-macros_2.12-0.13.0.jar;C:\Github\PMP---labs\lib_managed\jars\org.typelevel\machinist_2.12\machinist_2.12-0.6.1.jar;C:\Github\PMP---labs\lib_managed\bundles\com.chuusai\shapeless_2.12\shapeless_2.12-2.3.2.jar;C:\Github\PMP---labs\lib_managed\jars\org.typelevel\macro-compat_2.12\macro-compat_2.12-1.1.1.jar;C:\Github\PMP---labs\lib_managed\jars\org.slf4j\slf4j-api\slf4j-api-1.7.5.jar;C:\Github\PMP---labs\lib_managed\jars\io.argonaut\argonaut_2.12\argonaut_2.12-6.2.jar;C:\Github\PMP---labs\lib_managed\jars\org.prefuse\prefuse\prefuse-beta-20071021.jar;C:\Github\PMP---labs\lib_managed\bundles\org.scala-lang.modules\scala-swing_2.12\scala-swing_2.12-2.0.0.jar[0m
-[0m[[31merror[0m] [0mC:\Github\PMP---labs\src\main\scala\Lab5\ex44.scala:20: overloaded method value apply with alternatives:[0m
-[0m[[31merror[0m] [0m  [T1, T2, U](parent1: com.cra.figaro.language.Element[T1], parent2: com.cra.figaro.language.Element[T2], cpd: (T1, T2) => com.cra.figaro.language.Element[U])(implicit name: com.cra.figaro.language.Name[U], implicit collection: com.cra.figaro.language.ElementCollection)com.cra.figaro.language.Chain[(T1, T2),U] <and>[0m
-[0m[[31merror[0m] [0m  [T, U](parent: com.cra.figaro.language.Element[T], cpd: T => com.cra.figaro.language.Element[U])(implicit name: com.cra.figaro.language.Name[U], implicit collection: com.cra.figaro.language.ElementCollection)com.cra.figaro.language.Chain[T,U][0m
-[0m[[31merror[0m] [0m cannot be applied to (com.cra.figaro.library.atomic.discrete.AtomicUniform[Int], com.cra.figaro.language.Chain[Int,Int], Int => com.cra.figaro.library.atomic.discrete.AtomicUniform[Int])[0m
-[0m[[31merror[0m] [0m val player1Card2 = Chain(player1Card, player2Card, (card: Int) =>[0m
-[0m[[31merror[0m] [0m                    ^[0m
-[0m[[31merror[0m] [0mC:\Github\PMP---labs\src\main\scala\Lab5\ex44.scala:23: overloaded method value apply with alternatives:[0m
-[0m[[31merror[0m] [0m  [T1, T2, U](parent1: com.cra.figaro.language.Element[T1], parent2: com.cra.figaro.language.Element[T2], cpd: (T1, T2) => com.cra.figaro.language.Element[U])(implicit name: com.cra.figaro.language.Name[U], implicit collection: com.cra.figaro.language.ElementCollection)com.cra.figaro.language.Chain[(T1, T2),U] <and>[0m
-[0m[[31merror[0m] [0m  [T, U](parent: com.cra.figaro.language.Element[T], cpd: T => com.cra.figaro.language.Element[U])(implicit name: com.cra.figaro.language.Name[U], implicit collection: com.cra.figaro.language.ElementCollection)com.cra.figaro.language.Chain[T,U][0m
-[0m[[31merror[0m] [0m cannot be applied to (com.cra.figaro.library.atomic.discrete.AtomicUniform[Int], com.cra.figaro.language.Chain[Int,Int], <error>, Int => com.cra.figaro.library.atomic.discrete.AtomicUniform[Int])[0m
-[0m[[31merror[0m] [0m val player2Card2 = Chain(player1Card, player2Card, player1Card2, (card: Int) =>[0m
-[0m[[31merror[0m] [0m                    ^[0m
-[0m[[31merror[0m] [0mtwo errors found[0m
-[0m[[0mdebug[0m] [0mCompilation failed (CompilerInterface)[0m
-[0m[[31merror[0m] [0m(compile:[31mcompileIncremental[0m) Compilation failed[0m
+[0m[[0mdebug[0m] [0mScala compilation took 7.7696957 s[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating C:\Github\PMP---labs\src\main\scala\Partial 1\testPartial.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from C:\Github\PMP---labs\src\main\scala\Partial 1\testPartial.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(C:\Github\PMP---labs\src\main\scala\Partial 1\testPartial.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(C:\Github\PMP---labs\src\main\scala\Partial 1\testPartial.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The C:\Github\PMP---labs\src\main\scala\Partial 1\testPartial.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, alg, wait, $asInstanceOf, equals, alarma, asInstanceOf, synchronized, $isInstanceOf, seteziAlarma, notifyAll, isInstanceOf, ==, clone, autobuzIntarzie, toString, trezitLaTimp, !=, getClass, ne, eq, laTimp, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Previously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
