@@ -1,3 +1,5 @@
+//Am comentat codul deoarece aveam o eroare si nu puteam compila urmatoarele laboratoare
+/*
 package Lab6
 
 object Ex6 {
@@ -107,3 +109,4 @@ def tennis(
 	  game(p1Serves, newP1Points, newP2Points)
   }
 }
+*/

@@ -22,3 +22,6 @@ clear
 runMain Lab7.golf
 runMain testPartial.alarma
 runMain Partial.alarma
+runMain Lab7.golf
+runMain Lab6.Ex6
+runMain Lab8.lab8

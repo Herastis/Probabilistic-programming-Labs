@@ -1,6 +1,6 @@
-[0m[[0minfo[0m] [0mRunning Partial.alarma [0m
+[0m[[0minfo[0m] [0mRunning Lab8.lab8 [0m
 [0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
-[0m[[0mdebug[0m] [0mWaiting for thread run-main-2 to terminate.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main-6 to terminate.[0m
 [0m[[0mdebug[0m] [0m  Classpath:[0m
 [0m[[0mdebug[0m] [0m	C:\Github\PMP---labs\target\scala-2.12\classes[0m
 [0m[[0mdebug[0m] [0m	C:\Github\PMP---labs\lib_managed\jars\org.scala-lang\scala-library\scala-library-2.12.2.jar[0m
@@ -32,43 +32,7 @@
 [0m[[0mdebug[0m] [0m	C:\Github\PMP---labs\lib_managed\jars\io.argonaut\argonaut_2.12\argonaut_2.12-6.2.jar[0m
 [0m[[0mdebug[0m] [0m	C:\Github\PMP---labs\lib_managed\jars\org.prefuse\prefuse\prefuse-beta-20071021.jar[0m
 [0m[[0mdebug[0m] [0m	C:\Github\PMP---labs\lib_managed\bundles\org.scala-lang.modules\scala-swing_2.12\scala-swing_2.12-2.0.0.jar[0m
-[0m[[31merror[0m] [0m(run-main-2) java.lang.NoSuchMethodException: Partial.alarma.main([Ljava.lang.String;)[0m
-java.lang.NoSuchMethodException: Partial.alarma.main([Ljava.lang.String;)
-	at java.lang.Class.getMethod(Unknown Source)
-	at sbt.Run.getMainMethod(Run.scala:73)
-	at sbt.Run.run0(Run.scala:60)
-	at sbt.Run.sbt$Run$$execute$1(Run.scala:51)
-	at sbt.Run$$anonfun$run$1.apply$mcV$sp(Run.scala:55)
-	at sbt.Run$$anonfun$run$1.apply(Run.scala:55)
-	at sbt.Run$$anonfun$run$1.apply(Run.scala:55)
-	at sbt.Logger$$anon$4.apply(Logger.scala:84)
-	at sbt.TrapExit$App.run(TrapExit.scala:248)
-	at java.lang.Thread.run(Unknown Source)
-[0m[[0mdebug[0m] [0m	Thread run-main-2 exited.[0m
+[0m[[0mdebug[0m] [0m	Thread run-main-6 exited.[0m
 [0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
 [0m[[0mdebug[0m] [0mSandboxed run complete..[0m
-java.lang.RuntimeException: Nonzero exit code: 1
-	at scala.sys.package$.error(package.scala:27)
-	at sbt.Defaults$$anonfun$runMainTask$1$$anonfun$apply$44$$anonfun$apply$45$$anonfun$apply$46.apply(Defaults.scala:793)
-	at sbt.Defaults$$anonfun$runMainTask$1$$anonfun$apply$44$$anonfun$apply$45$$anonfun$apply$46.apply(Defaults.scala:793)
-	at scala.Option.foreach(Option.scala:236)
-	at sbt.Defaults$$anonfun$runMainTask$1$$anonfun$apply$44$$anonfun$apply$45.apply(Defaults.scala:793)
-	at sbt.Defaults$$anonfun$runMainTask$1$$anonfun$apply$44$$anonfun$apply$45.apply(Defaults.scala:791)
-	at scala.Function1$$anonfun$compose$1.apply(Function1.scala:47)
-	at sbt.$tilde$greater$$anonfun$$u2219$1.apply(TypeFunctions.scala:40)
-	at sbt.std.Transform$$anon$4.work(System.scala:63)
-	at sbt.Execute$$anonfun$submit$1$$anonfun$apply$1.apply(Execute.scala:228)
-	at sbt.Execute$$anonfun$submit$1$$anonfun$apply$1.apply(Execute.scala:228)
-	at sbt.ErrorHandling$.wideConvert(ErrorHandling.scala:17)
-	at sbt.Execute.work(Execute.scala:237)
-	at sbt.Execute$$anonfun$submit$1.apply(Execute.scala:228)
-	at sbt.Execute$$anonfun$submit$1.apply(Execute.scala:228)
-	at sbt.ConcurrentRestrictions$$anon$4$$anonfun$1.apply(ConcurrentRestrictions.scala:159)
-	at sbt.CompletionService$$anon$2.call(CompletionService.scala:28)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-[0m[[31merror[0m] [0m(compile:[31mrunMain[0m) Nonzero exit code: 1[0m
+[0m[[0mdebug[0m] [0mExited with code 0[0m
