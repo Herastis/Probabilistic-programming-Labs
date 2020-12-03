@@ -2,14 +2,14 @@ package Lab9
 
 import com.cra.figaro.language._
 import com.cra.figaro.algorithm.sampling._
-import com.cra.figaro.library.atomic.continuos.Normal
 import com.cra.figaro.library.atomic.discrete.{FromRange, Poisson}
+import com.cra.figaro.algorithm.filtering.ParticleFilter
 
 object markovv {
 	val chapters = 10
-	val intial = Universe.createNew()
+	val initial = Universe.createNew()
 
-	Constant(3)("score", intial)
+	Constant(3)("score", initial)
 	Constant(8)("learned", initial)
 	Constant(5)("difficulty", initial)
 
@@ -34,8 +34,8 @@ object markovv {
 		for { time <- 1 to 10} {
 			val evidence = {
 				arrivingObservation(time) match {
-					case None -> List()
-					case Some(n) -> List(NamedEvidence("score", Observation(n)))
+					case None => List()
+					case Some(n) => List(NamedEvidence("score", Observation(n)))
 				}
 			}
 			alg.advanceTime(evidence)
