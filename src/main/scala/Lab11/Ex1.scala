@@ -10,6 +10,7 @@ import com.cra.figaro.library.collection.Container
 import com.cra.figaro.library.atomic.continuous.Uniform
 import com.cra.figaro.library.atomic.continuous.Normal
 // import com.cra.figaro.algorithm.sampling._
+import com.cra.figaro.algorithm.factored.beliefpropagation.BeliefPropagation
 
 object pres {
 	def main(args: Array[String]) {
@@ -27,6 +28,15 @@ object pres {
 		alg1.start()
 		println("a)Probability of becaming president given that he or she is left-handed: " + alg1.probability(president, true))
 		alg1.stop()
+
+		println("BeliefPropagation: " +BeliefPropagation.probability(president, true))
+
+		val alg11 = Importance(40000, president)
+		alg11.start()
+		println("Importance: " + alg11.probability(president, true))
+		alg11.stop()
+
+		println()
 		leftHanded.unobserve()
 		//
 
@@ -44,6 +54,15 @@ object pres {
 		alg2.start()
 		println("b)Probability of becaming president given that he or she went to Harvard: " + alg2.probability(president, true))
 		alg2.stop()
+
+		println("BeliefPropagation: " + BeliefPropagation.probability(president, true))
+
+		val alg21 = Importance(40000, president)
+		alg21.start()
+		println("Importance: " + alg11.probability(president, true))
+		alg21.stop()
+
+		println()
 		wentToHarvard.unobserve()
 
 		//c)
@@ -53,6 +72,14 @@ object pres {
 		alg3.start()
 		println("c)Probability of becaming president given that he or she is left-handed and went to Harvard: " + alg3.probability(president, true))
 		alg3.stop()
+
+		println("BeliefPropagation: " + BeliefPropagation.probability(president, true))
+		
+		val alg31 = Importance(40000, president)
+		alg31.start()
+		println("Importance: " + alg31.probability(president, true))
+		alg31.stop()
+
 		//
 	}
 }
