@@ -1,5 +1,6 @@
 package Lab10
 
+/*
 import com.cra.figaro.language._
 import com.cra.figaro.algorithm.sampling._
 import com.cra.figaro.library.compound._
@@ -34,3 +35,4 @@ object lab10 {
 		}
 	}
 }
+*/

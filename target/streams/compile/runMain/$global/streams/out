@@ -1,6 +1,5 @@
-[0m[[0minfo[0m] [0mRunning Lab8.lab8 [0m
+[0m[[0minfo[0m] [0mRunning Lab11.pres [0m
 [0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
-[0m[[0mdebug[0m] [0mWaiting for thread run-main-6 to terminate.[0m
 [0m[[0mdebug[0m] [0m  Classpath:[0m
 [0m[[0mdebug[0m] [0m	C:\Github\PMP---labs\target\scala-2.12\classes[0m
 [0m[[0mdebug[0m] [0m	C:\Github\PMP---labs\lib_managed\jars\org.scala-lang\scala-library\scala-library-2.12.2.jar[0m
@@ -32,7 +31,8 @@
 [0m[[0mdebug[0m] [0m	C:\Github\PMP---labs\lib_managed\jars\io.argonaut\argonaut_2.12\argonaut_2.12-6.2.jar[0m
 [0m[[0mdebug[0m] [0m	C:\Github\PMP---labs\lib_managed\jars\org.prefuse\prefuse\prefuse-beta-20071021.jar[0m
 [0m[[0mdebug[0m] [0m	C:\Github\PMP---labs\lib_managed\bundles\org.scala-lang.modules\scala-swing_2.12\scala-swing_2.12-2.0.0.jar[0m
-[0m[[0mdebug[0m] [0m	Thread run-main-6 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main-e to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread run-main-e exited.[0m
 [0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
 [0m[[0mdebug[0m] [0mSandboxed run complete..[0m
 [0m[[0mdebug[0m] [0mExited with code 0[0m
