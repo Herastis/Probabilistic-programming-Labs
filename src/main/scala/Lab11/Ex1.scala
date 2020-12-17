@@ -26,10 +26,10 @@ object pres {
 		leftHanded.observe(true)
 		val alg1 = VariableElimination(president)
 		alg1.start()
-		println("a)Probability of becaming president given that he or she is left-handed: " + alg1.probability(president, true))
+		println("a) VE - Probability of becaming president given that he or she is left-handed: " + alg1.probability(president, true))
 		alg1.stop()
 
-		println("BeliefPropagation: " +BeliefPropagation.probability(president, true))
+		println("BeliefPropagation: " + BeliefPropagation.probability(president, true))
 
 		val alg11 = Importance(40000, president)
 		alg11.start()
@@ -44,7 +44,6 @@ object pres {
 		val wentToHarvardPresidents = Flip(0.15) // P(HU|POTUS)
 		val wentToHarvardNotPresidents = Flip(0.0005) // P(HU|!POTUS)
 
-
 		val wentToHarvard = CPD(president,
 		(false) -> Flip(0.0005),
 		(true) -> Flip(0.15))
@@ -52,25 +51,27 @@ object pres {
 		wentToHarvard.observe(true)
 		val alg2 = VariableElimination(president)
 		alg2.start()
-		println("b)Probability of becaming president given that he or she went to Harvard: " + alg2.probability(president, true))
+		println("b) VE - Probability of becaming president given that he or she went to Harvard: " + alg2.probability(president, true))
 		alg2.stop()
 
 		println("BeliefPropagation: " + BeliefPropagation.probability(president, true))
 
 		val alg21 = Importance(40000, president)
 		alg21.start()
-		println("Importance: " + alg11.probability(president, true))
+		println("Importance: " + alg21.probability(president, true))
 		alg21.stop()
 
 		println()
 		wentToHarvard.unobserve()
-
+		//
+		
 		//c)
 		leftHanded.observe(true)
 		wentToHarvard.observe(true)
+
 		val alg3 = VariableElimination(president)
 		alg3.start()
-		println("c)Probability of becaming president given that he or she is left-handed and went to Harvard: " + alg3.probability(president, true))
+		println("c) VE - Probability of becaming president given that he or she is left-handed and went to Harvard: " + alg3.probability(president, true))
 		alg3.stop()
 
 		println("BeliefPropagation: " + BeliefPropagation.probability(president, true))
@@ -79,7 +80,6 @@ object pres {
 		alg31.start()
 		println("Importance: " + alg31.probability(president, true))
 		alg31.stop()
-
 		//
 	}
 }
