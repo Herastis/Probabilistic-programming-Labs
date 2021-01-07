@@ -17,3 +17,4 @@ import Keys._
     .settings(libraryDependencies ++= Seq(
       "com.cra.figaro" %% "figaro" % "latest.release"
     ))
+  libraryDependencies += "com.github.wookietreiber" %% "scala-chart" % "latest.integration"
