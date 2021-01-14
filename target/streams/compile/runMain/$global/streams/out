@@ -1,6 +1,5 @@
-[0m[[0minfo[0m] [0mRunning Lab12.Ex1 [0m
+[0m[[0minfo[0m] [0mRunning Lab13.Ex13 [0m
 [0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
-[0m[[0mdebug[0m] [0mWaiting for thread run-main-5 to terminate.[0m
 [0m[[0mdebug[0m] [0m  Classpath:[0m
 [0m[[0mdebug[0m] [0m	C:\Github\PMP---labs\target\scala-2.12\classes[0m
 [0m[[0mdebug[0m] [0m	C:\Github\PMP---labs\lib_managed\jars\org.scala-lang\scala-library\scala-library-2.12.2.jar[0m
@@ -35,3 +34,16 @@
 [0m[[0mdebug[0m] [0m	C:\Github\PMP---labs\lib_managed\jars\com.github.wookietreiber\scala-chart_2.12\scala-chart_2.12-0.5.1.jar[0m
 [0m[[0mdebug[0m] [0m	C:\Github\PMP---labs\lib_managed\jars\org.jfree\jfreechart\jfreechart-1.0.19.jar[0m
 [0m[[0mdebug[0m] [0m	C:\Github\PMP---labs\lib_managed\jars\org.jfree\jcommon\jcommon-1.0.23.jar[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main-0 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread run-main-0 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread Anytime-akka.actor.default-dispatcher-5 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread Anytime-akka.actor.default-dispatcher-5 exited.[0m
+[0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
+[0m[[0mdebug[0m] [0mInterrupting thread scala-execution-context-global-33[0m
+[0m[[0mdebug[0m] [0m	Interrupted scala-execution-context-global-33[0m
+[0m[[0mdebug[0m] [0mInterrupting thread scala-execution-context-global-34[0m
+[0m[[0mdebug[0m] [0m	Interrupted scala-execution-context-global-34[0m
+[0m[[0mdebug[0m] [0mInterrupting thread scala-execution-context-global-36[0m
+[0m[[0mdebug[0m] [0m	Interrupted scala-execution-context-global-36[0m
+[0m[[0mdebug[0m] [0mSandboxed run complete..[0m
+[0m[[0mdebug[0m] [0mExited with code 0[0m
