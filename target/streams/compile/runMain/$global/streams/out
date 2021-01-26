@@ -36,13 +36,17 @@
 [0m[[0mdebug[0m] [0m	C:\Github\PMP---labs\lib_managed\jars\org.jfree\jcommon\jcommon-1.0.23.jar[0m
 [0m[[0mdebug[0m] [0mWaiting for thread run-main-0 to terminate.[0m
 [0m[[0mdebug[0m] [0m	Thread run-main-0 exited.[0m
-[0m[[0mdebug[0m] [0mWaiting for thread Anytime-akka.actor.default-dispatcher-5 to terminate.[0m
-[0m[[0mdebug[0m] [0m	Thread Anytime-akka.actor.default-dispatcher-5 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread Anytime-akka.actor.default-dispatcher-2 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread Anytime-akka.actor.default-dispatcher-2 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread Anytime-akka.actor.default-dispatcher-6 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread Anytime-akka.actor.default-dispatcher-6 exited.[0m
 [0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
-[0m[[0mdebug[0m] [0mInterrupting thread scala-execution-context-global-33[0m
-[0m[[0mdebug[0m] [0m	Interrupted scala-execution-context-global-33[0m
+[0m[[0mdebug[0m] [0mInterrupting thread scala-execution-context-global-35[0m
+[0m[[0mdebug[0m] [0m	Interrupted scala-execution-context-global-35[0m
 [0m[[0mdebug[0m] [0mInterrupting thread scala-execution-context-global-34[0m
 [0m[[0mdebug[0m] [0m	Interrupted scala-execution-context-global-34[0m
+[0m[[0mdebug[0m] [0mInterrupting thread scala-execution-context-global-33[0m
+[0m[[0mdebug[0m] [0m	Interrupted scala-execution-context-global-33[0m
 [0m[[0mdebug[0m] [0mInterrupting thread scala-execution-context-global-36[0m
 [0m[[0mdebug[0m] [0m	Interrupted scala-execution-context-global-36[0m
 [0m[[0mdebug[0m] [0mSandboxed run complete..[0m
