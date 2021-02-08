@@ -1,3 +1,4 @@
+/*
 package Partial2
 
 import com.cra.figaro.language._
@@ -38,3 +39,4 @@ object markov {
 		println(steps + ": " + timing(obsSeq))
 	}
 }
+*/
