@@ -35,7 +35,8 @@ object Vreme {
     )
 
 	 def main(args: Array[String]) {
-        println(VariableElimination.probability(Vreme, true))
+		println("Probabilitatea ca vremea sa fie normala: ")
+        println(VariableElimination.probability(calitateSaptamana, "normala"))
         
         zileNinsoare.setCondition((i: Int) => i > 8)
         println(VariableElimination.probability(Vreme, true))
